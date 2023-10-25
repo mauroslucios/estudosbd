@@ -1,1 +1,4 @@
 # estudosbd
+- mauro
+- yuri
+- claudio
